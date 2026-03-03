@@ -19,7 +19,7 @@ import com.careerlink.EasyApply.serviceimpl.JobServiceIMPL;
 
 @RestController
 @RequestMapping("/job")
-@CrossOrigin(origins="http://localhost:5173")
+
 public class JobController {
 	
 	@Autowired
